@@ -9,3 +9,6 @@
 * Volatile.java
 * SynchronizedIncorrectWay.java
 * SynchronizedCorrectWay.java
+* SynchronizedBlocksIncorrectWay.java
+* SynchronizedBlocksCorrectWay.java
+* 
