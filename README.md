@@ -7,3 +7,5 @@
 * StartThreads.java
 * StartThreadsAndJoin.java
 * Volatile.java
+* SynchronizedIncorrectWay.java
+* SynchronizedCorrectWay.java
