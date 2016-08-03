@@ -11,4 +11,9 @@
 * SynchronizedCorrectWay.java
 * SynchronizedBlocksIncorrectWay.java
 * SynchronizedBlocksCorrectWay.java
+* WaitAndNotify.java
+* LowLevelProducerConsumer.java
+* ReentrantLocks.java
+* HighLevelProducerConsumer1.java
+* HighLevelProducerConsumer2.java
 * 
