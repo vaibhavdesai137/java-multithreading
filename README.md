@@ -18,4 +18,5 @@
 * HighLevelProducerConsumer2.java
 * ExecServiceFixedThread.java
 * ExecServiceSingleThread.java
+* Priority.java
 * 
