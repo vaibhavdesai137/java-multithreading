@@ -19,4 +19,9 @@
 * ExecServiceFixedThread.java
 * ExecServiceSingleThread.java
 * Priority.java
+* SemaphoreDemo.java
+* FutureCallable.java
+* TerminateThreads.java
+* DaemonThreads.java
 * 
+
