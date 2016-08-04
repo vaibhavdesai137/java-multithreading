@@ -3,7 +3,7 @@
 1. This repo contains the code for the code written as per the course
 2. Udemy course: https://www.udemy.com/java-simulations-multithreading/learn/v4
 
-# Basic Multithreading:
+# Basic Multithreading (com.vaidesai.multithreading):
 * StartThreads.java
 * StartThreadsAndJoin.java
 * Volatile.java
@@ -24,9 +24,9 @@
 * TerminateThreads.java
 * DaemonThreads.java
 
-# Concurrent Libraries:
-* concurrent/CountDownLatchDemo.java
-* concurrent/CyclicBarrierDemo.java
-* concurrent/BlockingQueueDemo.java
+# Concurrent Libraries (com.vaidesai.concurrent):
+* CountDownLatchDemo.java
+* CyclicBarrierDemo.java
+* BlockingQueueDemo.java
 * 
 
