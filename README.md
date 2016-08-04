@@ -23,5 +23,6 @@
 * FutureCallable.java
 * TerminateThreads.java
 * DaemonThreads.java
+* CountDownLatchDemo.java
 * 
 
