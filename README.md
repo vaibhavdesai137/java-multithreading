@@ -28,5 +28,10 @@
 * CountDownLatchDemo.java
 * CyclicBarrierDemo.java
 * BlockingQueueDemo.java
+* ArrayBlockingQueueDemo.java
+* DelayBlockingQueueDemo.java
+* PriorityBlockingQueueDemo1.java
+* PriorityBlockingQueueDemo2.java
+* ExchangerDemo.java
 * 
 
