@@ -23,6 +23,9 @@
 * FutureCallable.java
 * TerminateThreads.java
 * DaemonThreads.java
-* CountDownLatchDemo.java
+* 
+* concurrent/CountDownLatchDemo.java
+* concurrent/CyclicBarrierDemo.java
+* concurrent/BlockingQueueDemo.java
 * 
 
