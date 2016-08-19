@@ -49,7 +49,7 @@ public class ChopStick {
 
 	@Override
 	public String toString() {
-		return "chopstick-" + this.id;
+		return "Shopstick-" + this.id;
 	}
 
 }
