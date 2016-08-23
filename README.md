@@ -33,5 +33,15 @@
 * PriorityBlockingQueueDemo1.java
 * PriorityBlockingQueueDemo2.java
 * ExchangerDemo.java
-* 
 
+# Dining Philosophers Project:
+* com.vaidesai.diningphilosophers
+
+# Student Library Project:
+* com.vaidesai.library
+
+# MineSweeper Project:
+* com.vaidesai.minesweeper
+
+# Conway Project:
+* com.vaidesai.conway
